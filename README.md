@@ -4,7 +4,16 @@ Wang Qian Front
 + **Email** wangqianfront@gmail.com
 
 
+Experience
+---------------------
 
+
+Education
+---------------------
++ B.S., Software engineering, Zhejiang University of Technology (ZJUT)
+
+Other
+---------------------
 
 **My blog post**
 
