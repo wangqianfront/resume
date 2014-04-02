@@ -8,7 +8,7 @@ Wang Qian Front
 
 Experience
 ---------------------
-+ <strong>Application Developer Engineer</strong> at State Street Inc. Aug 2011 - Present
++ Application Developer Engineer at <strong>State Street</strong> Inc. Aug 2011 - Present
 
 
 Education
