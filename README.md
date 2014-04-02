@@ -1,5 +1,7 @@
-HTML Resume Template
+Wang Qian Front
 --------------------
+
++wangqianfront@gmail.com
 
 **About this repo**
 
@@ -9,7 +11,7 @@ HTML Resume Template
 
 **Read the blog post**
 
-+ http://forcefront.com/2013/html-resume-template/
++ http://wangqianfront.github.io/
 
 
 **Try out the demo**
