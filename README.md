@@ -14,7 +14,7 @@ HTML Resume Template
 
 **Try out the demo**
 
-+ http://wangqianfront.github.io/Resume/
++ http://wangqianfront.github.io/resume/
 
 
 **Donation**
