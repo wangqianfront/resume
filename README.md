@@ -1,7 +1,7 @@
 Wang Qian Front
 --------------------
 
-+wangqianfront@gmail.com
++ wangqianfront@gmail.com
 
 **About this repo**
 
