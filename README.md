@@ -1,22 +1,21 @@
 Wang Qian Front
 --------------------
 
-+ wangqianfront@gmail.com
-
-**About this repo**
-
-+ A simple HTML resume template, well displayed on smart phones and PC under various resolutions. Optimized for printers.
-+ This project is released under the [MIT license](http://opensource.org/licenses/MIT).
++ **Email** wangqianfront@gmail.com
 
 
-**Read the blog post**
+
+
+**My blog post**
 
 + http://wangqianfront.github.io/
 
 
-**Try out the demo**
 
-+ http://wangqianfront.github.io/resume/
+**About this repo**
+
++ A HTML resume template, well displayed on smart phones and PC under various resolutions. Optimized for printers.
++ This project is released under the [MIT license](http://opensource.org/licenses/MIT).
 
 
 **Donation**
