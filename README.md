@@ -1,11 +1,13 @@
 Wang Qian Front
 --------------------
 
-+ **Email** wangqianfront@gmail.com
++ wangqianfront@gmail.com
+
 
 
 Experience
 ---------------------
+
 
 
 Education
