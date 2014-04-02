@@ -15,14 +15,9 @@ Education
 ---------------------
 + B.S., Software engineering, Zhejiang University of Technology (ZJUT)
 
-Other
+
+Remark
 ---------------------
-
-**My blog post**
-
-+ http://wangqianfront.github.io/
-
-
 
 **About this repo**
 
