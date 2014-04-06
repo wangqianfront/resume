@@ -1,11 +1,12 @@
-## H1B Visa: http://en.wikipedia.org/wiki/H-1B_visa
+## how to go foreign work
 
-## Linkedin: http://linkedin.com
+* H1B Visa: http://en.wikipedia.org/wiki/H-1B_visa
 
-## San Francisco Bay Area IT jobs (mostly small companies): http://sfbay.craigslist.org/sof/
+* Linkedin: http://linkedin.com
 
-## Top Job websites: hotjobs, monster, careerbuilder, indeed, dice, etc.
+* San Francisco Bay Area IT jobs (mostly small companies): http://sfbay.craigslist.org/sof/
 
-## IT Interview puzzles: careercup.com
+* Top Job websites: hotjobs, monster, careerbuilder, indeed, dice, etc.
+IT Interview puzzles: careercup.com
 
-## Job Wages: myvisajobs.com, glassdoor.com, salary.com
+* Job Wages: myvisajobs.com, glassdoor.com, salary.com
